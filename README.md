@@ -1,6 +1,6 @@
 # Embedded-Systems-Lab0
 Assignment provided by Embedded Systems (ECGR 3101)
-This project was performed using a board EK-TM4C123GXL and Energia IDE
+This project was performed using a board EK-TM4C123GXL and Code Composer Studio
 
 
 Objective
